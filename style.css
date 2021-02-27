@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:912;
+    height: 673;
+    background-image:url(p1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.booking-box{
+    padding-top: 20px;
+    max-width: 500px;
+    margin-top: 6%;
+    margin-left: 60%;
+    background-color: white;
+    text-align: center;
+}
+#cont{
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px 0;
+    width:85%;
+    outline: none;
+}
+.input-box{
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px 0;
+    width:80%;
+    outline: none;
+}
+.button{
+ background-color: blue;
+    color: white;
+    font-size: 20px;
+     border-radius: 10px;
+    padding: 10px;
+    margin:10px 0;
+    width:80%;
+    cursor: pointer;
+    outline: none;
+}
+.check{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
